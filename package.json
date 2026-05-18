@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-iso-codes",
+  "version": "0.1.0",
+  "description": "ISO country/language/currency/script code lookups (Debian iso-codes JSON)",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "iso-codes"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-iso-codes"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
