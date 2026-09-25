@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/iso-codes",
   "title": "Iso Codes",
-  "description": "ISO country/language/currency/script code lookups (Debian iso-codes JSON)",
-  "version": "0.1.0",
+  "description": "iso-codes MCP — lookups against the Debian iso-codes project JSON.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/iso-codes",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-iso-codes",
