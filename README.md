@@ -2,7 +2,7 @@
 
 ISO codes MCP — country (ISO 3166-1, -2, -3), language (ISO 639-1/-2/-3), currency (ISO 4217), and script (ISO 15924) lookups. Data fetched from the [debian iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes) project (raw JSON on github). Keyless; cached 24h in-pack.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1683+ live data sources.
 
 ## Tools
 
@@ -61,7 +61,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1679+ data sources. The
+Both URLs reach the same gateway and the same 1683+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 

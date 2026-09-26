@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/iso-codes",
   "title": "Iso Codes",
   "description": "iso-codes MCP — lookups against the Debian iso-codes project JSON.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/iso-codes",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-iso-codes",
