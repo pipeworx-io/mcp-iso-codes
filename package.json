@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-iso-codes",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "iso-codes MCP — lookups against the Debian iso-codes project JSON.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "iso-codes",
     "gatewaySlug": "iso-codes",
-    "sourceHash": "v1-67f3c3a9387c9717902587f37efaeb9b1b316db44037ab20f944be5669409e02",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-06a2dd2e7d4cad4489f303463f4b6d20c2234dd073fca5cc5bd49a25073a3855",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
